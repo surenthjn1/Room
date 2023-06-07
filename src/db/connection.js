@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // let url = "mongodb://localhost:27017/room-booking-app?readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false";
-let url = 'mongodb+srv://room:room@cluster0.xyk4vms.mongodb.net/';
+let url = 'mongodb+srv://surenthboss1234:YX5TSumz15EvbbTO@cluster0.hxbpnsf.mongodb.net/';
 
 (async () => {
   try {
